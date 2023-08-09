@@ -38,12 +38,12 @@ Below is a data dictionary explaining the features used in my project.
 
 #### Top 10 Single Words in Zombie Survival Reddit with Stopwords
 
-![zst1](./images/z_10_single_stopwords.PNG)
+![zst1](./images/z_10_single_stopwords.png)
 
  "Make", "use", "weapon", "best" seem to indicate those in the ZST (Zombie Survival Tactics Reddit) use language revolving inquiring about the best options available or to make to survive an outbreak.
 
 #### Top 10 Bigrams in Zombie Survival Reddit with Stopwords
- ![zst2](./images/z_10_bigrams_stopwords.PNG)
+ ![zst2](./images/z_10_bigrams_stopwords.png)
 Still not quite what imagined however, "walking dead", "food water", "melee weapon", "baseball bat" are insightful bigrams. We do have double words like 'melee weapon' and 'melee weapons'.
 
 #### Top 10 Single Words in Survival Reddit with Stopwords
@@ -55,14 +55,14 @@ In contrast to the ZST, the survival reddit seems to be centered around usefulne
 This by far is the most informative graph as we see key pairings in the subreddit such as "survival situation", "survival kit", and "wilderness survival" leading, but also key words such as "sleeping bag", "survival kit", and even "survival gear"
 
 #### Model Comparison
-![zst1](./images/Model_Comparison.PNG)
+![zst1](./images/model_comparison.PNG)
 
 ### MNB Confusion Matrix comparison
 #With stopwords
 
-![zst1](./images/mnb_cm.PNG)
+![zst1](./images/mnb_cm.png)
 #Without stopwords ("zombie", "apocalypse")
-![zst1](./images/mnb_no_stop_words_cm.PNG)
+![zst1](./images/mnb_no_stop_words_cm.png)
 
 
 ### Summary of Analysis
